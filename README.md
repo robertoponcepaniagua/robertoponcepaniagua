@@ -1,148 +1,80 @@
-<div align="center">
-
 # ¡Hola! Soy Roberto Ponce Paniagua 👋
 
-### Estudiante de DAW · Desarrollador web en formación · Creador de proyectos
-
-Soy estudiante de **Desarrollo de Aplicaciones Web** y me encanta la tecnología.  
-Disfruto aprendiendo, experimentando y creando proyectos propios que me ayudan a mejorar cada día.
-
-<a href="https://github.com/robertoponcepaniagua">
-  <img src="https://img.shields.io/github/followers/robertoponcepaniagua?label=Seguidores&style=for-the-badge&color=181717&logo=github" alt="Seguidores de GitHub">
-</a>
-<a href="https://github.com/robertoponcepaniagua?tab=repositories">
-  <img src="https://img.shields.io/badge/Proyectos-GitHub-181717?style=for-the-badge&logo=github" alt="Proyectos en GitHub">
-</a>
-<img src="https://komarev.com/ghpvc/?username=robertoponcepaniagua&style=for-the-badge&color=0e75b6&label=Visitas+al+perfil" alt="Visitas al perfil">
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CFFB2&center=true&vCenter=true&width=600&lines=Estudiante+de+DAW;Desarrollador+web+en+formaci%C3%B3n;Aprendiendo+creando+proyectos;Construyendo+ideas+%C3%BAtiles" alt="Animación de presentación" />
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Desarrollo%20web-%235B7CFF?style=for-the-badge&logo=github" alt="Enfoque: desarrollo web" />
+  <img src="https://img.shields.io/badge/Learning-Siempre-%23A6F36B?style=for-the-badge" alt="Aprendizaje constante" />
+  <img src="https://img.shields.io/badge/Status-Creando%20proyectos-%2350C878?style=for-the-badge" alt="Creando proyectos" />
+</p>
 
 ## Sobre mí
 
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**.
-- 💻 Me gusta construir proyectos propios y aprender haciendo.
-- 🚀 Mejorando cada día mis conocimientos de JavaScript y desarrollo web.
-- 🧠 Interesado en escribir código claro, mantenible y bien estructurado.
-- 📚 Documentando mi aprendizaje y compartiendo mi progreso en GitHub.
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y me apasiona aprender tecnología construyendo proyectos reales. Me gusta experimentar, resolver problemas y mejorar cada día la calidad de mi código.
 
-## Stack tecnológico
+- 💻 Desarrollo web, programación y bases de datos
+- 🌱 Aprendiendo JavaScript, Java, Python y nuevas herramientas
+- 🚀 Creando proyectos propios para poner en práctica lo aprendido
+- 🧠 Interesado en código limpio, interfaces y buenas prácticas
+- 🎯 Mi objetivo es seguir creciendo como desarrollador
 
-### Lenguajes y desarrollo web
+## Lenguajes y tecnologías
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" alt="HTML, CSS, JavaScript, Java y Python">
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Bases de datos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" alt="MySQL, PostgreSQL, SQLite y MongoDB">
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=sqlite&logoColor=38bdf8" alt="SQL">
-  <img src="https://img.shields.io/badge/Modelado%20de%20datos-2563eb?style=flat-square" alt="Modelado de datos">
-  <img src="https://img.shields.io/badge/Consultas%20SQL-16a34a?style=flat-square" alt="Consultas SQL">
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
-
-### Herramientas, sistemas y diseño
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows" alt="Git, GitHub, Visual Studio Code, Docker, Linux y Windows">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Penpot-Dise%C3%B1o-0f172a?style=flat-square" alt="Penpot">
-  <img src="https://img.shields.io/badge/Docker-Contenedores-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-### Conceptos actuales
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-f7df1e?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript ES6+">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/POO-Programación%20orientada%20a%20objetos-2563eb?style=flat-square" alt="Programación orientada a objetos">
-  <img src="https://img.shields.io/badge/Responsive%20Design-0f172a?style=flat-square&logo=css3&logoColor=38bdf8" alt="Responsive Design">
-  <img src="https://img.shields.io/badge/Control%20de%20versiones-f97316?style=flat-square&logo=git&logoColor=white" alt="Control de versiones">
-</p>
-
-## En qué estoy trabajando
-
-| Área | Objetivo |
-|---|---|
-| 🌱 Aprendizaje | JavaScript, POO y desarrollo web |
-| 🛠️ Práctica | Proyectos propios y ejercicios aplicados |
-| 🎯 Mejora | Código limpio, interfaces y buenas prácticas |
-| 🗄️ Datos | SQL, bases de datos y modelado |
-| 📦 Entorno | Docker, Linux y Windows |
-| 🎨 Diseño | Penpot y diseño de interfaces |
-| 📌 Próximo paso | Crear proyectos cada vez más completos |
 
 ## Proyectos destacados
 
-> Esta sección se actualizará con mis proyectos más completos y representativos.
+- ⚔️ **[RPG-GAME](https://github.com/robertoponcepaniagua/RPG-GAME)** — Sistema RPG multicapa con Flask, WebSockets, PostgreSQL y Docker.
+- 🎨 **[baipix](https://github.com/robertoponcepaniagua/baipix)** — Editor de pixel art con una interfaz inspirada en herramientas de diseño modernas.
+- 📚 **[25-daw-mkdocs](https://github.com/robertoponcepaniagua/25-daw-mkdocs)** — Documentación y práctica de MkDocs para DAW.
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| 🚧 Próximamente | Nuevos proyectos en desarrollo | HTML · CSS · JavaScript |
+## En qué estoy trabajando
 
-## Objetivos
-
-- [ ] Publicar proyectos web completos.
-- [ ] Mejorar la arquitectura y organización del código.
-- [ ] Crear interfaces accesibles y adaptables.
-- [ ] Documentar mejor cada proyecto.
-- [ ] Seguir ampliando mi stack tecnológico.
+- Mejorar mis conocimientos de JavaScript y programación orientada a objetos.
+- Crear aplicaciones web completas, accesibles y adaptables.
+- Practicar bases de datos, Docker y arquitectura de proyectos.
+- Documentar mejor cada proyecto y compartir el proceso.
 
 ## Estadísticas
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robertoponcepaniagua&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" alt="Estadísticas de GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoponcepaniagua&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=6" alt="Lenguajes más utilizados">
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=robertoponcepaniagua&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoponcepaniagua&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=6" alt="Lenguajes más utilizados" />
 </div>
-
-## Actividad
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=robertoponcepaniagua&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones">
-
+  <img src="https://streak-stats.demolab.com?user=robertoponcepaniagua&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </div>
-
-## Cómo trabajo
-
-```text
-1. Entender el problema
-2. Diseñar una solución sencilla
-3. Implementar de forma progresiva
-4. Probar, corregir y mejorar
-5. Documentar lo aprendido
-```
 
 ## Contacto
 
-Si quieres hablar sobre desarrollo web, proyectos o aprendizaje, puedes encontrarme en GitHub:
+<p align="left">
+  <a href="https://github.com/robertoponcepaniagua">
+    <img src="https://img.shields.io/badge/GitHub-robertoponcepaniagua-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-<div align="center">
-
-<a href="https://github.com/robertoponcepaniagua">
-  <img src="https://img.shields.io/badge/GitHub-robertoponcepaniagua-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Gracias por visitar mi perfil 🚀
-
-*Aprendiendo, creando y mejorando un proyecto cada vez.*
-
-</div>
+> Aprendo construyendo y construyo para seguir aprendiendo. 🚀
