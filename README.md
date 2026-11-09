@@ -1,7 +1,15 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Roberto%20Ponce%20Paniagua&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner animado de Roberto Ponce Paniagua" />
+</div>
+
 # ¡Hola! Soy Roberto Ponce Paniagua 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CFFB2&center=true&vCenter=true&width=600&lines=Estudiante+de+DAW;Desarrollador+web+en+formaci%C3%B3n;Aprendiendo+creando+proyectos;Construyendo+ideas+%C3%BAtiles" alt="Animación de presentación" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=7CFFB2&center=true&vCenter=true&width=700&lines=Estudiante+de+DAW+%F0%9F%92%BB;Desarrollador+web+en+formaci%C3%B3n+%F0%9F%9A%80;Aprendiendo+creando+proyectos+%F0%9F%94%A5;Construyendo+ideas+%C3%BAtiles+%E2%9C%A8" alt="Animación de presentación" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Programador trabajando" />
 </div>
 
 <p align="center">
@@ -78,3 +86,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y me apasiona aprende
 </p>
 
 > Aprendo construyendo y construyo para seguir aprendiendo. 🚀
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer&animation=fadeIn" alt="Pie de página animado" />
+</div>
